@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Yaramalla Ajay Kumar
-🎓 Recent Graduate | Software Engineer | Data Science Enthusiast 🖥️📊
+🎓 Recent Graduate | Aspiring Software Engineer | Data Science Enthusiast 🖥️📊
 
 ## Introduction
 Welcome to my GitHub profile! I'm Ajay Kumar, a recent graduate with a strong passion for software engineering and data science. I thrive on innovative problem-solving to tackle complex challenges and drive impactful results. My goal is to develop scalable applications and extract valuable insights from data-driven solutions.
